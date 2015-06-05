@@ -37,6 +37,7 @@ Sonerezh is cooked with CakePHP, and you need PHP to be installed.
 
 * PHP >= 5.4
 * PHP-GD PHP module
+* PHP-MYSQL PHP module
 
 -----------------
 Libav (optional)
