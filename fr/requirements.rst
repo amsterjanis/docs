@@ -37,6 +37,7 @@ Sonerezh fonctionne avec le framework PHP CakePHP, PHP est donc indispensable.
 
 * PHP 5.4 ou supérieur
 * Le module PHP GD
+* Le module PHP MYSQL
 
 -----------------
 Libav (optionnel)
